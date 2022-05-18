@@ -23,7 +23,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://relaxed-joliot.77-68-115-165.plesk.page/index.php/",
+          "url": "http://s685492006.websitehome.co.uk/",
           "redirections": "all",
         }
       }
